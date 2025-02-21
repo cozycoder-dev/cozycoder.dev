@@ -1,6 +1,6 @@
 +++
 title = "Introduction"
-description = "AdiDoks is a Zola theme helping you build modern documentation websites, which is a port of the Hugo theme Doks for Zola."
+description = "Cozy Coder is your space for coding with AI."
 date = 2021-05-01T08:00:00+00:00
 updated = 2021-05-01T08:00:00+00:00
 draft = false
@@ -9,23 +9,15 @@ sort_by = "weight"
 template = "docs/page.html"
 
 [extra]
-lead = 'AdiDoks is a Zola theme helping you build modern documentation websites, which is a port of the Hugo theme <a href="https://github.com/h-enk/doks">Doks</a> for Zola.'
+lead = 'Cozy Coder is your space for coding with AI.'
 toc = true
 top = false
 +++
 
-## Quick Start
+## Usage
 
-One page summary of how to start a new AdiDoks project. [Quick Start →](../quick-start/)
-
-## Go further
-
-Contributing and Help.
-
-## Contributing
-
-Find out how to contribute to Doks. [Contributing →](../../contributing/how-to-contribute/)
+Cozy Coder is currently under development. Please follow the [README →](https://github.com/cozycoder-dev/cozycoder?tab=readme-ov-file#readme) to build and run it. This guide will be updated after our first release.
 
 ## Help
 
-Get help on Doks. [Help →](../../help/faq/)
+Get help in our [Cozy Dev Corner on Discord →](https://discord.gg/QaCTXq2Gxm).
