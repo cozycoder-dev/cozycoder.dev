@@ -15,3 +15,8 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
+  custom_dir: overrides
+extra:
+  analytics:
+    provider: plausible
+    property: cozycoder.dev
