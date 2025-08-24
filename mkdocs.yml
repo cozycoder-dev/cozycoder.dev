@@ -2,6 +2,7 @@ site_name: Cozy Coder
 site_url: https://cozycoder.dev
 theme:
   name: material
+  logo: assets/cozy-logo.svg
   palette:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
